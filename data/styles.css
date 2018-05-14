@@ -74,6 +74,8 @@
 .primary_button {
   color:#FFFFFF;
 }
+.image {
+}
 .placeholder {
 }
 .checkbox {
@@ -94,6 +96,88 @@
   font-style:normal;
   color:#000000;
 }
+._btn-default {
+  font-family:'HelveticaNeue', 'Helvetica Neue';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#333333;
+  text-align:center;
+  line-height:20px;
+}
+._btn-default_hover {
+  color:#333333;
+  text-align:center;
+  line-height:20px;
+}
+._btn-primary {
+  font-family:'HelveticaNeue', 'Helvetica Neue';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#FFFFFF;
+  text-align:center;
+  line-height:20px;
+}
+._btn-primary_hover {
+  color:#FFFFFF;
+  text-align:center;
+  line-height:20px;
+}
+._btn-link {
+  font-family:'HelveticaNeue', 'Helvetica Neue';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#428BCA;
+  text-align:center;
+  line-height:20px;
+}
+._btn-link_hover {
+  color:#2A6496;
+  text-align:center;
+  line-height:20px;
+}
+.form_text_field {
+  font-family:'HelveticaNeue', 'Helvetica Neue';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  line-height:20px;
+}
+.dropdown-menu {
+  font-family:'HelveticaNeue', 'Helvetica Neue';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  line-height:26px;
+}
+._btn-grp_divider {
+}
+._dropdown_menuitem {
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+}
+._dropdown_menuitem_hover {
+  color:#252525;
+}
+._panel__panel-default__content_ {
+  font-family:'HelveticaNeue', 'Helvetica Neue';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#333333;
+  line-height:20px;
+}
+._panel__panel-default__no_title_ {
+  font-family:'HelveticaNeue', 'Helvetica Neue';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#333333;
+  line-height:20px;
+}
 ._panel__panel-default__header_ {
   font-family:'HelveticaNeue', 'Helvetica Neue';
   font-weight:400;
@@ -110,7 +194,37 @@
   color:#333333;
   line-height:20px;
 }
+._modal-dialogue_header {
+  font-family:'HelveticaNeue-Bold', 'Helvetica Neue Bold', 'Helvetica Neue';
+  font-weight:700;
+  font-style:normal;
+  font-size:18px;
+  line-height:25px;
+}
+._modal-dialogue_content {
+  font-family:'HelveticaNeue-Bold', 'Helvetica Neue Bold', 'Helvetica Neue';
+  font-weight:700;
+  font-style:normal;
+  font-size:14px;
+  line-height:20px;
+}
+._modal-backdrop {
+}
+.droplist {
+  font-family:'HelveticaNeue', 'Helvetica Neue';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
 .horizontal_line {
+}
+.radio_button {
+  font-family:'HelveticaNeue', 'Helvetica Neue';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
 }
 .shape {
   font-family:'HelveticaNeue', 'Helvetica Neue';
@@ -118,5 +232,27 @@
   font-style:normal;
 }
 .paragraph {
+  font-family:'HelveticaNeue', 'Helvetica Neue';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+  line-height:20px;
+}
+.heading_1 {
+  font-family:'HelveticaNeue-Bold', 'Helvetica Neue Bold', 'Helvetica Neue';
+  font-weight:700;
+  font-style:normal;
+  font-size:36px;
+  text-align:left;
+}
+.paragraph1 {
+  text-align:left;
+}
+.droplist1 {
+  color:#000000;
+  text-align:left;
+}
+.radio_button1 {
   text-align:left;
 }
