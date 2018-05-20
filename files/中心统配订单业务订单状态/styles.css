@@ -1,0 +1,74 @@
+﻿body {
+  margin:0px;
+  background-image:none;
+  position:static;
+  left:auto;
+  width:935px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+}
+#base {
+  position:absolute;
+  z-index:0;
+}
+#u2148_div {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:337px;
+  height:29px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'.AppleSystemUIFontBold', '.AppleSystemUIFont Bold', '.AppleSystemUIFont';
+  font-weight:700;
+  font-style:normal;
+  font-size:28px;
+  color:#000000;
+}
+#u2148 {
+  position:absolute;
+  left:49px;
+  top:26px;
+  width:337px;
+  height:29px;
+  font-family:'.AppleSystemUIFontBold', '.AppleSystemUIFont Bold', '.AppleSystemUIFont';
+  font-weight:700;
+  font-style:normal;
+  font-size:28px;
+  color:#000000;
+}
+#u2149 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:337px;
+  white-space:nowrap;
+}
+#u2150_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:935px;
+  height:629px;
+}
+#u2150 {
+  position:absolute;
+  left:0px;
+  top:102px;
+  width:935px;
+  height:629px;
+}
+#u2151 {
+  position:absolute;
+  left:2px;
+  top:306px;
+  width:931px;
+  visibility:hidden;
+  word-wrap:break-word;
+}
