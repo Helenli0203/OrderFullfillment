@@ -920,6 +920,13 @@
   width:66px;
   word-wrap:break-word;
 }
+#u72_ann {
+  position:absolute;
+  left:794px;
+  top:20px;
+  width:1px;
+  height:1px;
+}
 #u74_img {
   position:absolute;
   left:0px;
@@ -2469,6 +2476,13 @@
   text-decoration:none;
   color:#FF0000;
   text-align:center;
+}
+#u199_ann {
+  position:absolute;
+  left:1012px;
+  top:676px;
+  width:1px;
+  height:1px;
 }
 #u200_img {
   position:absolute;
